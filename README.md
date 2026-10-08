@@ -1,8 +1,4 @@
-<header>
-  <nav>
-  ### LineOS
-  </nav>
-</header>
+# LineOS
 ___
 .ino Operating System for your RPi dumbphones.
-
+Used on upcoming NuPhone.
