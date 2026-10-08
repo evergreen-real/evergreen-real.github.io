@@ -1,1 +1,6 @@
-# evergreen-real.github.io
+---
+permalink: /home
+---
+
+LineOS
+___
