@@ -1,6 +1,6 @@
----
+layout: page
+title: "Home"
 permalink: /home
----
 
-LineOS
+# LineOS
 ___
