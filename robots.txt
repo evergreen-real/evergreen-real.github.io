@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /landing/
+Disallow: /home/
+
+Sitemap: https://evergreen-real.github.io/sitemap.xml
