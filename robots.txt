@@ -1,3 +1,5 @@
+# LineOS Website "robots.txt" File
+
 User-agent: *
 Allow: /landing/
 Disallow: /home/
